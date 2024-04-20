@@ -1,0 +1,77 @@
+.ooo{
+	background-image: url('../images/nasa01.jpg');
+	height: 650px;
+    background-attachment: fixed;
+    overflow: hidden;
+
+}
+
+
+.kkk{
+	background-image: url('../images/pulse01.jpg');
+	margin-top: 100px;
+	height: 280px;
+	 background-attachment: fixed;
+}
+.ppp{
+	
+	background-image: url('../images/earth.jpg');
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 350px;
+	margin-top: 100px;
+}
+.itc{
+	background-color: yellow;
+	/*height: 160px;*/
+	max-width: 100%;
+
+
+}
+
+.tech{
+	background-image: url('../images/post.jpg');
+	height: 550px;
+	margin-top: 100px;
+	background-attachment: fixed;
+}
+.one{
+	background-color: yellow;
+	margin-top: 100px;
+
+}
+
+.user{
+	background-image: url('../images/nasa4.jpg');
+	height: 550px;
+	margin-top: 100px;
+	background-attachment: fixed;
+}
+.sunny{
+	background-image: url('../images/icon9.jpg');
+	height: 550px;
+	margin-top: 100px;
+	background-attachment: fixed;
+}
+
+.bell{
+	background-image: url('../images/earth02.jpg');
+	height: 550px;
+	margin-top: 100px;
+	background-attachment: fixed;
+}
+.two{
+
+}
+.icons i:hover{
+	background-color: blue;
+	padding: 20px;
+	border-radius: 50%;
+
+}
+
+
+
+
+body {overflow-x: hidden;}
